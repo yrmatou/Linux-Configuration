@@ -36,18 +36,5 @@ yum install -y unzip zip
 * redis  
 * pm2  
 
-**1. node安装**  
-
-  首先 [打开官网](https://nodejs.org/en/download/)  
-  <div align="left">
-    <img src="https://user-images.githubusercontent.com/21699695/121794949-45252400-cc3f-11eb-9320-f758db0bd771.png" alt="Editor" width="600">
-  </div>  
-
-  ```js
-  复制拿到链接，下载nodejs
-  wget https://nodejs.org/dist/v10.15.3/node-v10.15.3-linux-x64.tar.xz（下载链接请到网站复制）
+**1. [node安装](https://github.com/wangQiaoBrother/Linux-Configuration/issues/1)**  
   
-  解压 tar -xvf node-v10.15.3-linux-x64.tar.xz (你的链接包)
-  
-  删除压缩包 rm -rf node-v10.15.3-linux-x64.tar.xz (你的链接包)
-  ```
