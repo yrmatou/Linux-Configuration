@@ -10,6 +10,7 @@
 * pm2  
 
 1. node安装  
+[打开官网](https://nodejs.org/en/download/)  
 <div align="left">
   <img src="https://user-images.githubusercontent.com/21699695/121794949-45252400-cc3f-11eb-9320-f758db0bd771.png" alt="Editor" width="600">
 </div>  
