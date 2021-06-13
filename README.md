@@ -38,6 +38,6 @@ yum install -y unzip zip
 
 **1. [node安装](https://github.com/wangQiaoBrother/Linux-Configuration/issues/1)**  
 **2. [nginx安装](https://github.com/wangQiaoBrother/Linux-Configuration/issues/2)**  
-**3. [mysql安装](https://github.com/wangQiaoBrother/Linux-Configuration/issues/3)** 
+**3. [mysql安装](https://github.com/wangQiaoBrother/Linux-Configuration/issues/3)**   
 **4. [redis安装](https://github.com/wangQiaoBrother/Linux-Configuration/issues/4)**  
   
