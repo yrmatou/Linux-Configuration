@@ -37,4 +37,5 @@ yum install -y unzip zip
 * pm2  
 
 **1. [node安装](https://github.com/wangQiaoBrother/Linux-Configuration/issues/1)**  
+**2. [nginx安装](https://github.com/wangQiaoBrother/Linux-Configuration/issues/2)**  
   
