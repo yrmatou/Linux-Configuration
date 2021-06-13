@@ -40,4 +40,9 @@ yum install -y unzip zip
 **2. [nginx安装](https://github.com/wangQiaoBrother/Linux-Configuration/issues/2)**  
 **3. [mysql安装](https://github.com/wangQiaoBrother/Linux-Configuration/issues/3)**   
 **4. [redis安装](https://github.com/wangQiaoBrother/Linux-Configuration/issues/4)**  
+**5.pm2安装**
+```js
+npm install pm2 -g 全局安装
+pm2 start app.js 
+```
   
