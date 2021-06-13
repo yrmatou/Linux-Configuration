@@ -4,9 +4,9 @@
 本人长期从事前端开发并未涉及后端服务，所以想记录一下这次配置linux服务器过程，借鉴文档之处需要删除请联系我。
 ### 安装常用命令
 * tar
-* zip
+* zip unzip
 
-**tar 安装**  
+**1.tar 安装**  
 >在 CentOS 中，以 root 用户在 shell 中执行下面的命令安装 tar。
 
 ```js
@@ -21,6 +21,12 @@ yum install tar
 
 ```js
 apt-get install tar
+```
+**2.zip unzip 安装**  
+> CentOS 中
+
+```js
+yum install -y unzip zip
 ```
 
 ### 安装常用软件
