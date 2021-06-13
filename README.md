@@ -47,7 +47,7 @@ yum install -y unzip zip
   复制拿到链接，下载nodejs
   wget https://nodejs.org/dist/v10.15.3/node-v10.15.3-linux-x64.tar.xz（下载链接请到网站复制）
   
-  解压 tar -xvf node-v10.15.3-linux-x64.tar.xz
+  解压 tar -xvf node-v10.15.3-linux-x64.tar.xz (你的链接包)
   
-  删除压缩包 rm -rf node-v10.15.3-linux-x64.tar.xz
+  删除压缩包 rm -rf node-v10.15.3-linux-x64.tar.xz (你的链接包)
   ```
