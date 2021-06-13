@@ -45,4 +45,4 @@ yum install -y unzip zip
 npm install pm2 -g 全局安装
 pm2 start app.js 
 ```
-  
+[pm2详细使用教程](https://www.jianshu.com/p/5f808762a71a)  
