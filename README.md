@@ -49,5 +49,8 @@ pm2 start app.js
 
 **辛苦！辛苦！喝口水！哈哈哈**
 <div align="left">
+  <img src="https://user-images.githubusercontent.com/21699695/140758752-182a4db2-ec40-4154-a090-4aba56583862.jpg" alt="Editor" width="200">
+</div>
+<div align="left">
   <img src="https://user-images.githubusercontent.com/21699695/121778277-d6a57f00-cbc8-11eb-9b28-13462b3fde2f.png" alt="Editor" width="200">
 </div>
